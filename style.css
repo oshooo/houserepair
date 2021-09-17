@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}header{
+    height: 10vh;
+}
+.showcase{
+    height: 90vh;
+    background-image: url(media/hero-bg.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+}
